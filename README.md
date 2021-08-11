@@ -4,6 +4,8 @@
 
 [공식 링크](https://nextjs.org/learn/basics/create-nextjs-app)
 
+[배포 완료](https://learn-nextjs-lyart.vercel.app/)
+
 
 * [x] learn-starter
 * [x] navigate-between-pages-starter
@@ -11,7 +13,7 @@
 * [x] data-fetching-starter
 * [x] dynamic-routes-starter
 * [x] api-routes-starter
-* [ ] basics-final
+* [x] basics-final
 
 ```
 yarn create next-app learn-starter --example "https://github.com/vercel/next-learn-starter/tree/master/learn-starter"
