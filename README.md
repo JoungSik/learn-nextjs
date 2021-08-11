@@ -9,7 +9,7 @@
 * [x] navigate-between-pages-starter
 * [x] assets-metadata-css-starter
 * [x] data-fetching-starter
-* [ ] dynamic-routes-starter
+* [x] dynamic-routes-starter
 * [ ] api-routes-starter
 * [ ] basics-final
 
