@@ -8,7 +8,7 @@
 * [x] learn-starter
 * [x] navigate-between-pages-starter
 * [x] assets-metadata-css-starter
-* [ ] data-fetching-starter
+* [x] data-fetching-starter
 * [ ] dynamic-routes-starter
 * [ ] api-routes-starter
 * [ ] basics-final
