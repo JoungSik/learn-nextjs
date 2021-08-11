@@ -4,7 +4,7 @@
 
 [공식 링크](https://nextjs.org/learn/basics/create-nextjs-app)
 
-[배포 완료](https://learn-nextjs-lyart.vercel.app/)
+[배포 완료](https://learn-nextjs-ashy.vercel.app/)
 
 
 * [x] learn-starter
