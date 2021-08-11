@@ -10,7 +10,7 @@
 * [x] assets-metadata-css-starter
 * [x] data-fetching-starter
 * [x] dynamic-routes-starter
-* [ ] api-routes-starter
+* [x] api-routes-starter
 * [ ] basics-final
 
 ```
